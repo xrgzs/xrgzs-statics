@@ -4,7 +4,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Light.1.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Light.1.woff2) format('woff2');
     font-weight: 300;
     font-style: normal;
     font-display: swap;
@@ -13,7 +13,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Light.2.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Light.2.woff2) format('woff2');
     font-weight: 300;
     font-style: normal;
     font-display: swap;
@@ -22,7 +22,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Light.3.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Light.3.woff2) format('woff2');
     font-weight: 300;
     font-style: normal;
     font-display: swap;
@@ -31,7 +31,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Light.4.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Light.4.woff2) format('woff2');
     font-weight: 300;
     font-style: normal;
     font-display: swap;
@@ -40,7 +40,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Light.5.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Light.5.woff2) format('woff2');
     font-weight: 300;
     font-style: normal;
     font-display: swap;
@@ -49,7 +49,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Light.6.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Light.6.woff2) format('woff2');
     font-weight: 300;
     font-style: normal;
     font-display: swap;
@@ -58,7 +58,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Light.7.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Light.7.woff2) format('woff2');
     font-weight: 300;
     font-style: normal;
     font-display: swap;
@@ -67,7 +67,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Light.8.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Light.8.woff2) format('woff2');
     font-weight: 300;
     font-style: normal;
     font-display: swap;
@@ -76,7 +76,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Light.9.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Light.9.woff2) format('woff2');
     font-weight: 300;
     font-style: normal;
     font-display: swap;
@@ -85,7 +85,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Light.10.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Light.10.woff2) format('woff2');
     font-weight: 300;
     font-style: normal;
     font-display: swap;
@@ -94,7 +94,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Light.11.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Light.11.woff2) format('woff2');
     font-weight: 300;
     font-style: normal;
     font-display: swap;
@@ -103,7 +103,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Light.12.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Light.12.woff2) format('woff2');
     font-weight: 300;
     font-style: normal;
     font-display: swap;
@@ -112,7 +112,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Light.13.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Light.13.woff2) format('woff2');
     font-weight: 300;
     font-style: normal;
     font-display: swap;
@@ -121,7 +121,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Light.14.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Light.14.woff2) format('woff2');
     font-weight: 300;
     font-style: normal;
     font-display: swap;
@@ -130,7 +130,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Light.15.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Light.15.woff2) format('woff2');
     font-weight: 300;
     font-style: normal;
     font-display: swap;
@@ -139,7 +139,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Light.16.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Light.16.woff2) format('woff2');
     font-weight: 300;
     font-style: normal;
     font-display: swap;
@@ -148,7 +148,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Light.17.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Light.17.woff2) format('woff2');
     font-weight: 300;
     font-style: normal;
     font-display: swap;
@@ -157,7 +157,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Light.18.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Light.18.woff2) format('woff2');
     font-weight: 300;
     font-style: normal;
     font-display: swap;
@@ -166,7 +166,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Light.19.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Light.19.woff2) format('woff2');
     font-weight: 300;
     font-style: normal;
     font-display: swap;
@@ -175,7 +175,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Light.20.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Light.20.woff2) format('woff2');
     font-weight: 300;
     font-style: normal;
     font-display: swap;
@@ -184,7 +184,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Light.21.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Light.21.woff2) format('woff2');
     font-weight: 300;
     font-style: normal;
     font-display: swap;
@@ -193,7 +193,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Light.22.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Light.22.woff2) format('woff2');
     font-weight: 300;
     font-style: normal;
     font-display: swap;
@@ -202,7 +202,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Light.23.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Light.23.woff2) format('woff2');
     font-weight: 300;
     font-style: normal;
     font-display: swap;
@@ -211,7 +211,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Light.24.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Light.24.woff2) format('woff2');
     font-weight: 300;
     font-style: normal;
     font-display: swap;
@@ -220,7 +220,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Light.25.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Light.25.woff2) format('woff2');
     font-weight: 300;
     font-style: normal;
     font-display: swap;
@@ -229,7 +229,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Light.26.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Light.26.woff2) format('woff2');
     font-weight: 300;
     font-style: normal;
     font-display: swap;
@@ -238,7 +238,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Light.27.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Light.27.woff2) format('woff2');
     font-weight: 300;
     font-style: normal;
     font-display: swap;
@@ -247,7 +247,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Light.28.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Light.28.woff2) format('woff2');
     font-weight: 300;
     font-style: normal;
     font-display: swap;
@@ -256,7 +256,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Light.29.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Light.29.woff2) format('woff2');
     font-weight: 300;
     font-style: normal;
     font-display: swap;
@@ -265,7 +265,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Light.30.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Light.30.woff2) format('woff2');
     font-weight: 300;
     font-style: normal;
     font-display: swap;
@@ -274,7 +274,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Light.31.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Light.31.woff2) format('woff2');
     font-weight: 300;
     font-style: normal;
     font-display: swap;
@@ -283,7 +283,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Light.32.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Light.32.woff2) format('woff2');
     font-weight: 300;
     font-style: normal;
     font-display: swap;
@@ -292,7 +292,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Light.33.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Light.33.woff2) format('woff2');
     font-weight: 300;
     font-style: normal;
     font-display: swap;
@@ -301,7 +301,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Light.34.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Light.34.woff2) format('woff2');
     font-weight: 300;
     font-style: normal;
     font-display: swap;
@@ -310,7 +310,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Light.35.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Light.35.woff2) format('woff2');
     font-weight: 300;
     font-style: normal;
     font-display: swap;
@@ -319,7 +319,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Light.36.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Light.36.woff2) format('woff2');
     font-weight: 300;
     font-style: normal;
     font-display: swap;
@@ -328,7 +328,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Light.37.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Light.37.woff2) format('woff2');
     font-weight: 300;
     font-style: normal;
     font-display: swap;
@@ -337,7 +337,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Light.38.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Light.38.woff2) format('woff2');
     font-weight: 300;
     font-style: normal;
     font-display: swap;
@@ -346,7 +346,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Light.39.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Light.39.woff2) format('woff2');
     font-weight: 300;
     font-style: normal;
     font-display: swap;
@@ -355,7 +355,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Light.40.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Light.40.woff2) format('woff2');
     font-weight: 300;
     font-style: normal;
     font-display: swap;
@@ -364,7 +364,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Light.41.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Light.41.woff2) format('woff2');
     font-weight: 300;
     font-style: normal;
     font-display: swap;
@@ -373,7 +373,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Light.42.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Light.42.woff2) format('woff2');
     font-weight: 300;
     font-style: normal;
     font-display: swap;
@@ -382,7 +382,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Light.43.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Light.43.woff2) format('woff2');
     font-weight: 300;
     font-style: normal;
     font-display: swap;
@@ -391,7 +391,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Light.44.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Light.44.woff2) format('woff2');
     font-weight: 300;
     font-style: normal;
     font-display: swap;
@@ -400,7 +400,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Light.45.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Light.45.woff2) format('woff2');
     font-weight: 300;
     font-style: normal;
     font-display: swap;
@@ -409,7 +409,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Light.46.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Light.46.woff2) format('woff2');
     font-weight: 300;
     font-style: normal;
     font-display: swap;
@@ -418,7 +418,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Light.47.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Light.47.woff2) format('woff2');
     font-weight: 300;
     font-style: normal;
     font-display: swap;
@@ -427,7 +427,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Light.48.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Light.48.woff2) format('woff2');
     font-weight: 300;
     font-style: normal;
     font-display: swap;
@@ -436,7 +436,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Light.49.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Light.49.woff2) format('woff2');
     font-weight: 300;
     font-style: normal;
     font-display: swap;
@@ -445,7 +445,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Light.50.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Light.50.woff2) format('woff2');
     font-weight: 300;
     font-style: normal;
     font-display: swap;
@@ -454,7 +454,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Light.51.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Light.51.woff2) format('woff2');
     font-weight: 300;
     font-style: normal;
     font-display: swap;
@@ -463,7 +463,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Light.52.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Light.52.woff2) format('woff2');
     font-weight: 300;
     font-style: normal;
     font-display: swap;
@@ -472,7 +472,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Light.53.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Light.53.woff2) format('woff2');
     font-weight: 300;
     font-style: normal;
     font-display: swap;
@@ -481,7 +481,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Light.54.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Light.54.woff2) format('woff2');
     font-weight: 300;
     font-style: normal;
     font-display: swap;
@@ -490,7 +490,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Light.55.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Light.55.woff2) format('woff2');
     font-weight: 300;
     font-style: normal;
     font-display: swap;
@@ -499,7 +499,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Light.56.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Light.56.woff2) format('woff2');
     font-weight: 300;
     font-style: normal;
     font-display: swap;
@@ -508,7 +508,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Light.57.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Light.57.woff2) format('woff2');
     font-weight: 300;
     font-style: normal;
     font-display: swap;
@@ -517,7 +517,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Light.58.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Light.58.woff2) format('woff2');
     font-weight: 300;
     font-style: normal;
     font-display: swap;
@@ -526,7 +526,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Light.59.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Light.59.woff2) format('woff2');
     font-weight: 300;
     font-style: normal;
     font-display: swap;
@@ -535,7 +535,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Light.60.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Light.60.woff2) format('woff2');
     font-weight: 300;
     font-style: normal;
     font-display: swap;
@@ -544,7 +544,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Light.61.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Light.61.woff2) format('woff2');
     font-weight: 300;
     font-style: normal;
     font-display: swap;
@@ -553,7 +553,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Light.62.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Light.62.woff2) format('woff2');
     font-weight: 300;
     font-style: normal;
     font-display: swap;
@@ -562,7 +562,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Light.63.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Light.63.woff2) format('woff2');
     font-weight: 300;
     font-style: normal;
     font-display: swap;
@@ -571,7 +571,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Light.64.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Light.64.woff2) format('woff2');
     font-weight: 300;
     font-style: normal;
     font-display: swap;
@@ -580,7 +580,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Light.65.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Light.65.woff2) format('woff2');
     font-weight: 300;
     font-style: normal;
     font-display: swap;
@@ -589,7 +589,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Light.66.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Light.66.woff2) format('woff2');
     font-weight: 300;
     font-style: normal;
     font-display: swap;
@@ -598,7 +598,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Light.67.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Light.67.woff2) format('woff2');
     font-weight: 300;
     font-style: normal;
     font-display: swap;
@@ -607,7 +607,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Light.68.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Light.68.woff2) format('woff2');
     font-weight: 300;
     font-style: normal;
     font-display: swap;
@@ -616,7 +616,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Light.69.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Light.69.woff2) format('woff2');
     font-weight: 300;
     font-style: normal;
     font-display: swap;
@@ -625,7 +625,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Light.70.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Light.70.woff2) format('woff2');
     font-weight: 300;
     font-style: normal;
     font-display: swap;
@@ -634,7 +634,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Light.71.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Light.71.woff2) format('woff2');
     font-weight: 300;
     font-style: normal;
     font-display: swap;
@@ -643,7 +643,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Light.72.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Light.72.woff2) format('woff2');
     font-weight: 300;
     font-style: normal;
     font-display: swap;
@@ -652,7 +652,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Light.73.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Light.73.woff2) format('woff2');
     font-weight: 300;
     font-style: normal;
     font-display: swap;
@@ -661,7 +661,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Light.74.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Light.74.woff2) format('woff2');
     font-weight: 300;
     font-style: normal;
     font-display: swap;
@@ -670,7 +670,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Light.75.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Light.75.woff2) format('woff2');
     font-weight: 300;
     font-style: normal;
     font-display: swap;
@@ -679,7 +679,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Light.76.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Light.76.woff2) format('woff2');
     font-weight: 300;
     font-style: normal;
     font-display: swap;
@@ -688,7 +688,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Light.77.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Light.77.woff2) format('woff2');
     font-weight: 300;
     font-style: normal;
     font-display: swap;
@@ -697,7 +697,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Light.78.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Light.78.woff2) format('woff2');
     font-weight: 300;
     font-style: normal;
     font-display: swap;
@@ -706,7 +706,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Light.79.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Light.79.woff2) format('woff2');
     font-weight: 300;
     font-style: normal;
     font-display: swap;
@@ -715,7 +715,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Light.80.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Light.80.woff2) format('woff2');
     font-weight: 300;
     font-style: normal;
     font-display: swap;
@@ -724,7 +724,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Light.81.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Light.81.woff2) format('woff2');
     font-weight: 300;
     font-style: normal;
     font-display: swap;
@@ -733,7 +733,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Light.82.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Light.82.woff2) format('woff2');
     font-weight: 300;
     font-style: normal;
     font-display: swap;
@@ -742,7 +742,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Light.83.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Light.83.woff2) format('woff2');
     font-weight: 300;
     font-style: normal;
     font-display: swap;
@@ -751,7 +751,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Light.84.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Light.84.woff2) format('woff2');
     font-weight: 300;
     font-style: normal;
     font-display: swap;
@@ -760,7 +760,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Light.85.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Light.85.woff2) format('woff2');
     font-weight: 300;
     font-style: normal;
     font-display: swap;
@@ -769,7 +769,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Light.86.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Light.86.woff2) format('woff2');
     font-weight: 300;
     font-style: normal;
     font-display: swap;
@@ -778,7 +778,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Light.87.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Light.87.woff2) format('woff2');
     font-weight: 300;
     font-style: normal;
     font-display: swap;
@@ -787,7 +787,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Light.88.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Light.88.woff2) format('woff2');
     font-weight: 300;
     font-style: normal;
     font-display: swap;
@@ -796,7 +796,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Light.89.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Light.89.woff2) format('woff2');
     font-weight: 300;
     font-style: normal;
     font-display: swap;
@@ -805,7 +805,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Light.90.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Light.90.woff2) format('woff2');
     font-weight: 300;
     font-style: normal;
     font-display: swap;
@@ -814,7 +814,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Light.91.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Light.91.woff2) format('woff2');
     font-weight: 300;
     font-style: normal;
     font-display: swap;
@@ -823,7 +823,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Light.92.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Light.92.woff2) format('woff2');
     font-weight: 300;
     font-style: normal;
     font-display: swap;
@@ -832,7 +832,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Light.93.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Light.93.woff2) format('woff2');
     font-weight: 300;
     font-style: normal;
     font-display: swap;
@@ -841,7 +841,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Light.94.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Light.94.woff2) format('woff2');
     font-weight: 300;
     font-style: normal;
     font-display: swap;
@@ -850,7 +850,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Light.95.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Light.95.woff2) format('woff2');
     font-weight: 300;
     font-style: normal;
     font-display: swap;
@@ -859,7 +859,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Light.96.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Light.96.woff2) format('woff2');
     font-weight: 300;
     font-style: normal;
     font-display: swap;
@@ -869,7 +869,7 @@
 /** generated by https://github.com/voderl/font-slice */
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Regular.1.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Regular.1.woff2) format('woff2');
     font-weight: 400;
     font-style: normal;
     font-display: swap;
@@ -878,7 +878,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Regular.2.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Regular.2.woff2) format('woff2');
     font-weight: 400;
     font-style: normal;
     font-display: swap;
@@ -887,7 +887,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Regular.3.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Regular.3.woff2) format('woff2');
     font-weight: 400;
     font-style: normal;
     font-display: swap;
@@ -896,7 +896,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Regular.4.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Regular.4.woff2) format('woff2');
     font-weight: 400;
     font-style: normal;
     font-display: swap;
@@ -905,7 +905,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Regular.5.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Regular.5.woff2) format('woff2');
     font-weight: 400;
     font-style: normal;
     font-display: swap;
@@ -914,7 +914,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Regular.6.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Regular.6.woff2) format('woff2');
     font-weight: 400;
     font-style: normal;
     font-display: swap;
@@ -923,7 +923,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Regular.7.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Regular.7.woff2) format('woff2');
     font-weight: 400;
     font-style: normal;
     font-display: swap;
@@ -932,7 +932,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Regular.8.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Regular.8.woff2) format('woff2');
     font-weight: 400;
     font-style: normal;
     font-display: swap;
@@ -941,7 +941,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Regular.9.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Regular.9.woff2) format('woff2');
     font-weight: 400;
     font-style: normal;
     font-display: swap;
@@ -950,7 +950,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Regular.10.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Regular.10.woff2) format('woff2');
     font-weight: 400;
     font-style: normal;
     font-display: swap;
@@ -959,7 +959,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Regular.11.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Regular.11.woff2) format('woff2');
     font-weight: 400;
     font-style: normal;
     font-display: swap;
@@ -968,7 +968,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Regular.12.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Regular.12.woff2) format('woff2');
     font-weight: 400;
     font-style: normal;
     font-display: swap;
@@ -977,7 +977,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Regular.13.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Regular.13.woff2) format('woff2');
     font-weight: 400;
     font-style: normal;
     font-display: swap;
@@ -986,7 +986,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Regular.14.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Regular.14.woff2) format('woff2');
     font-weight: 400;
     font-style: normal;
     font-display: swap;
@@ -995,7 +995,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Regular.15.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Regular.15.woff2) format('woff2');
     font-weight: 400;
     font-style: normal;
     font-display: swap;
@@ -1004,7 +1004,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Regular.16.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Regular.16.woff2) format('woff2');
     font-weight: 400;
     font-style: normal;
     font-display: swap;
@@ -1013,7 +1013,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Regular.17.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Regular.17.woff2) format('woff2');
     font-weight: 400;
     font-style: normal;
     font-display: swap;
@@ -1022,7 +1022,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Regular.18.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Regular.18.woff2) format('woff2');
     font-weight: 400;
     font-style: normal;
     font-display: swap;
@@ -1031,7 +1031,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Regular.19.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Regular.19.woff2) format('woff2');
     font-weight: 400;
     font-style: normal;
     font-display: swap;
@@ -1040,7 +1040,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Regular.20.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Regular.20.woff2) format('woff2');
     font-weight: 400;
     font-style: normal;
     font-display: swap;
@@ -1049,7 +1049,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Regular.21.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Regular.21.woff2) format('woff2');
     font-weight: 400;
     font-style: normal;
     font-display: swap;
@@ -1058,7 +1058,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Regular.22.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Regular.22.woff2) format('woff2');
     font-weight: 400;
     font-style: normal;
     font-display: swap;
@@ -1067,7 +1067,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Regular.23.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Regular.23.woff2) format('woff2');
     font-weight: 400;
     font-style: normal;
     font-display: swap;
@@ -1076,7 +1076,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Regular.24.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Regular.24.woff2) format('woff2');
     font-weight: 400;
     font-style: normal;
     font-display: swap;
@@ -1085,7 +1085,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Regular.25.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Regular.25.woff2) format('woff2');
     font-weight: 400;
     font-style: normal;
     font-display: swap;
@@ -1094,7 +1094,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Regular.26.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Regular.26.woff2) format('woff2');
     font-weight: 400;
     font-style: normal;
     font-display: swap;
@@ -1103,7 +1103,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Regular.27.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Regular.27.woff2) format('woff2');
     font-weight: 400;
     font-style: normal;
     font-display: swap;
@@ -1112,7 +1112,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Regular.28.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Regular.28.woff2) format('woff2');
     font-weight: 400;
     font-style: normal;
     font-display: swap;
@@ -1121,7 +1121,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Regular.29.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Regular.29.woff2) format('woff2');
     font-weight: 400;
     font-style: normal;
     font-display: swap;
@@ -1130,7 +1130,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Regular.30.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Regular.30.woff2) format('woff2');
     font-weight: 400;
     font-style: normal;
     font-display: swap;
@@ -1139,7 +1139,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Regular.31.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Regular.31.woff2) format('woff2');
     font-weight: 400;
     font-style: normal;
     font-display: swap;
@@ -1148,7 +1148,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Regular.32.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Regular.32.woff2) format('woff2');
     font-weight: 400;
     font-style: normal;
     font-display: swap;
@@ -1157,7 +1157,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Regular.33.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Regular.33.woff2) format('woff2');
     font-weight: 400;
     font-style: normal;
     font-display: swap;
@@ -1166,7 +1166,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Regular.34.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Regular.34.woff2) format('woff2');
     font-weight: 400;
     font-style: normal;
     font-display: swap;
@@ -1175,7 +1175,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Regular.35.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Regular.35.woff2) format('woff2');
     font-weight: 400;
     font-style: normal;
     font-display: swap;
@@ -1184,7 +1184,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Regular.36.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Regular.36.woff2) format('woff2');
     font-weight: 400;
     font-style: normal;
     font-display: swap;
@@ -1193,7 +1193,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Regular.37.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Regular.37.woff2) format('woff2');
     font-weight: 400;
     font-style: normal;
     font-display: swap;
@@ -1202,7 +1202,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Regular.38.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Regular.38.woff2) format('woff2');
     font-weight: 400;
     font-style: normal;
     font-display: swap;
@@ -1211,7 +1211,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Regular.39.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Regular.39.woff2) format('woff2');
     font-weight: 400;
     font-style: normal;
     font-display: swap;
@@ -1220,7 +1220,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Regular.40.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Regular.40.woff2) format('woff2');
     font-weight: 400;
     font-style: normal;
     font-display: swap;
@@ -1229,7 +1229,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Regular.41.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Regular.41.woff2) format('woff2');
     font-weight: 400;
     font-style: normal;
     font-display: swap;
@@ -1238,7 +1238,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Regular.42.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Regular.42.woff2) format('woff2');
     font-weight: 400;
     font-style: normal;
     font-display: swap;
@@ -1247,7 +1247,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Regular.43.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Regular.43.woff2) format('woff2');
     font-weight: 400;
     font-style: normal;
     font-display: swap;
@@ -1256,7 +1256,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Regular.44.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Regular.44.woff2) format('woff2');
     font-weight: 400;
     font-style: normal;
     font-display: swap;
@@ -1265,7 +1265,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Regular.45.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Regular.45.woff2) format('woff2');
     font-weight: 400;
     font-style: normal;
     font-display: swap;
@@ -1274,7 +1274,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Regular.46.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Regular.46.woff2) format('woff2');
     font-weight: 400;
     font-style: normal;
     font-display: swap;
@@ -1283,7 +1283,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Regular.47.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Regular.47.woff2) format('woff2');
     font-weight: 400;
     font-style: normal;
     font-display: swap;
@@ -1292,7 +1292,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Regular.48.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Regular.48.woff2) format('woff2');
     font-weight: 400;
     font-style: normal;
     font-display: swap;
@@ -1301,7 +1301,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Regular.49.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Regular.49.woff2) format('woff2');
     font-weight: 400;
     font-style: normal;
     font-display: swap;
@@ -1310,7 +1310,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Regular.50.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Regular.50.woff2) format('woff2');
     font-weight: 400;
     font-style: normal;
     font-display: swap;
@@ -1319,7 +1319,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Regular.51.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Regular.51.woff2) format('woff2');
     font-weight: 400;
     font-style: normal;
     font-display: swap;
@@ -1328,7 +1328,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Regular.52.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Regular.52.woff2) format('woff2');
     font-weight: 400;
     font-style: normal;
     font-display: swap;
@@ -1337,7 +1337,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Regular.53.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Regular.53.woff2) format('woff2');
     font-weight: 400;
     font-style: normal;
     font-display: swap;
@@ -1346,7 +1346,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Regular.54.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Regular.54.woff2) format('woff2');
     font-weight: 400;
     font-style: normal;
     font-display: swap;
@@ -1355,7 +1355,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Regular.55.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Regular.55.woff2) format('woff2');
     font-weight: 400;
     font-style: normal;
     font-display: swap;
@@ -1364,7 +1364,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Regular.56.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Regular.56.woff2) format('woff2');
     font-weight: 400;
     font-style: normal;
     font-display: swap;
@@ -1373,7 +1373,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Regular.57.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Regular.57.woff2) format('woff2');
     font-weight: 400;
     font-style: normal;
     font-display: swap;
@@ -1382,7 +1382,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Regular.58.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Regular.58.woff2) format('woff2');
     font-weight: 400;
     font-style: normal;
     font-display: swap;
@@ -1391,7 +1391,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Regular.59.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Regular.59.woff2) format('woff2');
     font-weight: 400;
     font-style: normal;
     font-display: swap;
@@ -1400,7 +1400,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Regular.60.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Regular.60.woff2) format('woff2');
     font-weight: 400;
     font-style: normal;
     font-display: swap;
@@ -1409,7 +1409,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Regular.61.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Regular.61.woff2) format('woff2');
     font-weight: 400;
     font-style: normal;
     font-display: swap;
@@ -1418,7 +1418,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Regular.62.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Regular.62.woff2) format('woff2');
     font-weight: 400;
     font-style: normal;
     font-display: swap;
@@ -1427,7 +1427,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Regular.63.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Regular.63.woff2) format('woff2');
     font-weight: 400;
     font-style: normal;
     font-display: swap;
@@ -1436,7 +1436,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Regular.64.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Regular.64.woff2) format('woff2');
     font-weight: 400;
     font-style: normal;
     font-display: swap;
@@ -1445,7 +1445,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Regular.65.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Regular.65.woff2) format('woff2');
     font-weight: 400;
     font-style: normal;
     font-display: swap;
@@ -1454,7 +1454,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Regular.66.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Regular.66.woff2) format('woff2');
     font-weight: 400;
     font-style: normal;
     font-display: swap;
@@ -1463,7 +1463,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Regular.67.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Regular.67.woff2) format('woff2');
     font-weight: 400;
     font-style: normal;
     font-display: swap;
@@ -1472,7 +1472,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Regular.68.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Regular.68.woff2) format('woff2');
     font-weight: 400;
     font-style: normal;
     font-display: swap;
@@ -1481,7 +1481,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Regular.69.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Regular.69.woff2) format('woff2');
     font-weight: 400;
     font-style: normal;
     font-display: swap;
@@ -1490,7 +1490,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Regular.70.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Regular.70.woff2) format('woff2');
     font-weight: 400;
     font-style: normal;
     font-display: swap;
@@ -1499,7 +1499,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Regular.71.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Regular.71.woff2) format('woff2');
     font-weight: 400;
     font-style: normal;
     font-display: swap;
@@ -1508,7 +1508,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Regular.72.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Regular.72.woff2) format('woff2');
     font-weight: 400;
     font-style: normal;
     font-display: swap;
@@ -1517,7 +1517,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Regular.73.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Regular.73.woff2) format('woff2');
     font-weight: 400;
     font-style: normal;
     font-display: swap;
@@ -1526,7 +1526,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Regular.74.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Regular.74.woff2) format('woff2');
     font-weight: 400;
     font-style: normal;
     font-display: swap;
@@ -1535,7 +1535,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Regular.75.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Regular.75.woff2) format('woff2');
     font-weight: 400;
     font-style: normal;
     font-display: swap;
@@ -1544,7 +1544,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Regular.76.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Regular.76.woff2) format('woff2');
     font-weight: 400;
     font-style: normal;
     font-display: swap;
@@ -1553,7 +1553,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Regular.77.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Regular.77.woff2) format('woff2');
     font-weight: 400;
     font-style: normal;
     font-display: swap;
@@ -1562,7 +1562,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Regular.78.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Regular.78.woff2) format('woff2');
     font-weight: 400;
     font-style: normal;
     font-display: swap;
@@ -1571,7 +1571,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Regular.79.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Regular.79.woff2) format('woff2');
     font-weight: 400;
     font-style: normal;
     font-display: swap;
@@ -1580,7 +1580,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Regular.80.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Regular.80.woff2) format('woff2');
     font-weight: 400;
     font-style: normal;
     font-display: swap;
@@ -1589,7 +1589,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Regular.81.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Regular.81.woff2) format('woff2');
     font-weight: 400;
     font-style: normal;
     font-display: swap;
@@ -1598,7 +1598,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Regular.82.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Regular.82.woff2) format('woff2');
     font-weight: 400;
     font-style: normal;
     font-display: swap;
@@ -1607,7 +1607,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Regular.83.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Regular.83.woff2) format('woff2');
     font-weight: 400;
     font-style: normal;
     font-display: swap;
@@ -1616,7 +1616,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Regular.84.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Regular.84.woff2) format('woff2');
     font-weight: 400;
     font-style: normal;
     font-display: swap;
@@ -1625,7 +1625,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Regular.85.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Regular.85.woff2) format('woff2');
     font-weight: 400;
     font-style: normal;
     font-display: swap;
@@ -1634,7 +1634,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Regular.86.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Regular.86.woff2) format('woff2');
     font-weight: 400;
     font-style: normal;
     font-display: swap;
@@ -1643,7 +1643,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Regular.87.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Regular.87.woff2) format('woff2');
     font-weight: 400;
     font-style: normal;
     font-display: swap;
@@ -1652,7 +1652,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Regular.88.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Regular.88.woff2) format('woff2');
     font-weight: 400;
     font-style: normal;
     font-display: swap;
@@ -1661,7 +1661,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Regular.89.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Regular.89.woff2) format('woff2');
     font-weight: 400;
     font-style: normal;
     font-display: swap;
@@ -1670,7 +1670,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Regular.90.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Regular.90.woff2) format('woff2');
     font-weight: 400;
     font-style: normal;
     font-display: swap;
@@ -1679,7 +1679,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Regular.91.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Regular.91.woff2) format('woff2');
     font-weight: 400;
     font-style: normal;
     font-display: swap;
@@ -1688,7 +1688,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Regular.92.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Regular.92.woff2) format('woff2');
     font-weight: 400;
     font-style: normal;
     font-display: swap;
@@ -1697,7 +1697,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Regular.93.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Regular.93.woff2) format('woff2');
     font-weight: 400;
     font-style: normal;
     font-display: swap;
@@ -1706,7 +1706,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Regular.94.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Regular.94.woff2) format('woff2');
     font-weight: 400;
     font-style: normal;
     font-display: swap;
@@ -1715,7 +1715,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Regular.95.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Regular.95.woff2) format('woff2');
     font-weight: 400;
     font-style: normal;
     font-display: swap;
@@ -1724,7 +1724,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Regular.96.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Regular.96.woff2) format('woff2');
     font-weight: 400;
     font-style: normal;
     font-display: swap;
@@ -1734,7 +1734,7 @@
 /** generated by https://github.com/voderl/font-slice */
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Medium.1.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Medium.1.woff2) format('woff2');
     font-weight: 500;
     font-style: normal;
     font-display: swap;
@@ -1743,7 +1743,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Medium.2.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Medium.2.woff2) format('woff2');
     font-weight: 500;
     font-style: normal;
     font-display: swap;
@@ -1752,7 +1752,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Medium.3.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Medium.3.woff2) format('woff2');
     font-weight: 500;
     font-style: normal;
     font-display: swap;
@@ -1761,7 +1761,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Medium.4.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Medium.4.woff2) format('woff2');
     font-weight: 500;
     font-style: normal;
     font-display: swap;
@@ -1770,7 +1770,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Medium.5.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Medium.5.woff2) format('woff2');
     font-weight: 500;
     font-style: normal;
     font-display: swap;
@@ -1779,7 +1779,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Medium.6.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Medium.6.woff2) format('woff2');
     font-weight: 500;
     font-style: normal;
     font-display: swap;
@@ -1788,7 +1788,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Medium.7.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Medium.7.woff2) format('woff2');
     font-weight: 500;
     font-style: normal;
     font-display: swap;
@@ -1797,7 +1797,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Medium.8.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Medium.8.woff2) format('woff2');
     font-weight: 500;
     font-style: normal;
     font-display: swap;
@@ -1806,7 +1806,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Medium.9.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Medium.9.woff2) format('woff2');
     font-weight: 500;
     font-style: normal;
     font-display: swap;
@@ -1815,7 +1815,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Medium.10.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Medium.10.woff2) format('woff2');
     font-weight: 500;
     font-style: normal;
     font-display: swap;
@@ -1824,7 +1824,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Medium.11.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Medium.11.woff2) format('woff2');
     font-weight: 500;
     font-style: normal;
     font-display: swap;
@@ -1833,7 +1833,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Medium.12.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Medium.12.woff2) format('woff2');
     font-weight: 500;
     font-style: normal;
     font-display: swap;
@@ -1842,7 +1842,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Medium.13.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Medium.13.woff2) format('woff2');
     font-weight: 500;
     font-style: normal;
     font-display: swap;
@@ -1851,7 +1851,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Medium.14.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Medium.14.woff2) format('woff2');
     font-weight: 500;
     font-style: normal;
     font-display: swap;
@@ -1860,7 +1860,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Medium.15.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Medium.15.woff2) format('woff2');
     font-weight: 500;
     font-style: normal;
     font-display: swap;
@@ -1869,7 +1869,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Medium.16.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Medium.16.woff2) format('woff2');
     font-weight: 500;
     font-style: normal;
     font-display: swap;
@@ -1878,7 +1878,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Medium.17.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Medium.17.woff2) format('woff2');
     font-weight: 500;
     font-style: normal;
     font-display: swap;
@@ -1887,7 +1887,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Medium.18.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Medium.18.woff2) format('woff2');
     font-weight: 500;
     font-style: normal;
     font-display: swap;
@@ -1896,7 +1896,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Medium.19.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Medium.19.woff2) format('woff2');
     font-weight: 500;
     font-style: normal;
     font-display: swap;
@@ -1905,7 +1905,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Medium.20.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Medium.20.woff2) format('woff2');
     font-weight: 500;
     font-style: normal;
     font-display: swap;
@@ -1914,7 +1914,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Medium.21.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Medium.21.woff2) format('woff2');
     font-weight: 500;
     font-style: normal;
     font-display: swap;
@@ -1923,7 +1923,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Medium.22.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Medium.22.woff2) format('woff2');
     font-weight: 500;
     font-style: normal;
     font-display: swap;
@@ -1932,7 +1932,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Medium.23.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Medium.23.woff2) format('woff2');
     font-weight: 500;
     font-style: normal;
     font-display: swap;
@@ -1941,7 +1941,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Medium.24.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Medium.24.woff2) format('woff2');
     font-weight: 500;
     font-style: normal;
     font-display: swap;
@@ -1950,7 +1950,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Medium.25.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Medium.25.woff2) format('woff2');
     font-weight: 500;
     font-style: normal;
     font-display: swap;
@@ -1959,7 +1959,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Medium.26.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Medium.26.woff2) format('woff2');
     font-weight: 500;
     font-style: normal;
     font-display: swap;
@@ -1968,7 +1968,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Medium.27.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Medium.27.woff2) format('woff2');
     font-weight: 500;
     font-style: normal;
     font-display: swap;
@@ -1977,7 +1977,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Medium.28.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Medium.28.woff2) format('woff2');
     font-weight: 500;
     font-style: normal;
     font-display: swap;
@@ -1986,7 +1986,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Medium.29.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Medium.29.woff2) format('woff2');
     font-weight: 500;
     font-style: normal;
     font-display: swap;
@@ -1995,7 +1995,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Medium.30.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Medium.30.woff2) format('woff2');
     font-weight: 500;
     font-style: normal;
     font-display: swap;
@@ -2004,7 +2004,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Medium.31.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Medium.31.woff2) format('woff2');
     font-weight: 500;
     font-style: normal;
     font-display: swap;
@@ -2013,7 +2013,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Medium.32.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Medium.32.woff2) format('woff2');
     font-weight: 500;
     font-style: normal;
     font-display: swap;
@@ -2022,7 +2022,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Medium.33.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Medium.33.woff2) format('woff2');
     font-weight: 500;
     font-style: normal;
     font-display: swap;
@@ -2031,7 +2031,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Medium.34.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Medium.34.woff2) format('woff2');
     font-weight: 500;
     font-style: normal;
     font-display: swap;
@@ -2040,7 +2040,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Medium.35.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Medium.35.woff2) format('woff2');
     font-weight: 500;
     font-style: normal;
     font-display: swap;
@@ -2049,7 +2049,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Medium.36.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Medium.36.woff2) format('woff2');
     font-weight: 500;
     font-style: normal;
     font-display: swap;
@@ -2058,7 +2058,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Medium.37.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Medium.37.woff2) format('woff2');
     font-weight: 500;
     font-style: normal;
     font-display: swap;
@@ -2067,7 +2067,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Medium.38.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Medium.38.woff2) format('woff2');
     font-weight: 500;
     font-style: normal;
     font-display: swap;
@@ -2076,7 +2076,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Medium.39.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Medium.39.woff2) format('woff2');
     font-weight: 500;
     font-style: normal;
     font-display: swap;
@@ -2085,7 +2085,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Medium.40.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Medium.40.woff2) format('woff2');
     font-weight: 500;
     font-style: normal;
     font-display: swap;
@@ -2094,7 +2094,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Medium.41.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Medium.41.woff2) format('woff2');
     font-weight: 500;
     font-style: normal;
     font-display: swap;
@@ -2103,7 +2103,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Medium.42.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Medium.42.woff2) format('woff2');
     font-weight: 500;
     font-style: normal;
     font-display: swap;
@@ -2112,7 +2112,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Medium.43.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Medium.43.woff2) format('woff2');
     font-weight: 500;
     font-style: normal;
     font-display: swap;
@@ -2121,7 +2121,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Medium.44.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Medium.44.woff2) format('woff2');
     font-weight: 500;
     font-style: normal;
     font-display: swap;
@@ -2130,7 +2130,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Medium.45.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Medium.45.woff2) format('woff2');
     font-weight: 500;
     font-style: normal;
     font-display: swap;
@@ -2139,7 +2139,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Medium.46.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Medium.46.woff2) format('woff2');
     font-weight: 500;
     font-style: normal;
     font-display: swap;
@@ -2148,7 +2148,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Medium.47.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Medium.47.woff2) format('woff2');
     font-weight: 500;
     font-style: normal;
     font-display: swap;
@@ -2157,7 +2157,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Medium.48.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Medium.48.woff2) format('woff2');
     font-weight: 500;
     font-style: normal;
     font-display: swap;
@@ -2166,7 +2166,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Medium.49.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Medium.49.woff2) format('woff2');
     font-weight: 500;
     font-style: normal;
     font-display: swap;
@@ -2175,7 +2175,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Medium.50.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Medium.50.woff2) format('woff2');
     font-weight: 500;
     font-style: normal;
     font-display: swap;
@@ -2184,7 +2184,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Medium.51.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Medium.51.woff2) format('woff2');
     font-weight: 500;
     font-style: normal;
     font-display: swap;
@@ -2193,7 +2193,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Medium.52.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Medium.52.woff2) format('woff2');
     font-weight: 500;
     font-style: normal;
     font-display: swap;
@@ -2202,7 +2202,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Medium.53.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Medium.53.woff2) format('woff2');
     font-weight: 500;
     font-style: normal;
     font-display: swap;
@@ -2211,7 +2211,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Medium.54.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Medium.54.woff2) format('woff2');
     font-weight: 500;
     font-style: normal;
     font-display: swap;
@@ -2220,7 +2220,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Medium.55.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Medium.55.woff2) format('woff2');
     font-weight: 500;
     font-style: normal;
     font-display: swap;
@@ -2229,7 +2229,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Medium.56.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Medium.56.woff2) format('woff2');
     font-weight: 500;
     font-style: normal;
     font-display: swap;
@@ -2238,7 +2238,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Medium.57.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Medium.57.woff2) format('woff2');
     font-weight: 500;
     font-style: normal;
     font-display: swap;
@@ -2247,7 +2247,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Medium.58.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Medium.58.woff2) format('woff2');
     font-weight: 500;
     font-style: normal;
     font-display: swap;
@@ -2256,7 +2256,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Medium.59.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Medium.59.woff2) format('woff2');
     font-weight: 500;
     font-style: normal;
     font-display: swap;
@@ -2265,7 +2265,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Medium.60.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Medium.60.woff2) format('woff2');
     font-weight: 500;
     font-style: normal;
     font-display: swap;
@@ -2274,7 +2274,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Medium.61.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Medium.61.woff2) format('woff2');
     font-weight: 500;
     font-style: normal;
     font-display: swap;
@@ -2283,7 +2283,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Medium.62.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Medium.62.woff2) format('woff2');
     font-weight: 500;
     font-style: normal;
     font-display: swap;
@@ -2292,7 +2292,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Medium.63.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Medium.63.woff2) format('woff2');
     font-weight: 500;
     font-style: normal;
     font-display: swap;
@@ -2301,7 +2301,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Medium.64.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Medium.64.woff2) format('woff2');
     font-weight: 500;
     font-style: normal;
     font-display: swap;
@@ -2310,7 +2310,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Medium.65.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Medium.65.woff2) format('woff2');
     font-weight: 500;
     font-style: normal;
     font-display: swap;
@@ -2319,7 +2319,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Medium.66.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Medium.66.woff2) format('woff2');
     font-weight: 500;
     font-style: normal;
     font-display: swap;
@@ -2328,7 +2328,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Medium.67.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Medium.67.woff2) format('woff2');
     font-weight: 500;
     font-style: normal;
     font-display: swap;
@@ -2337,7 +2337,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Medium.68.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Medium.68.woff2) format('woff2');
     font-weight: 500;
     font-style: normal;
     font-display: swap;
@@ -2346,7 +2346,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Medium.69.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Medium.69.woff2) format('woff2');
     font-weight: 500;
     font-style: normal;
     font-display: swap;
@@ -2355,7 +2355,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Medium.70.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Medium.70.woff2) format('woff2');
     font-weight: 500;
     font-style: normal;
     font-display: swap;
@@ -2364,7 +2364,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Medium.71.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Medium.71.woff2) format('woff2');
     font-weight: 500;
     font-style: normal;
     font-display: swap;
@@ -2373,7 +2373,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Medium.72.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Medium.72.woff2) format('woff2');
     font-weight: 500;
     font-style: normal;
     font-display: swap;
@@ -2382,7 +2382,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Medium.73.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Medium.73.woff2) format('woff2');
     font-weight: 500;
     font-style: normal;
     font-display: swap;
@@ -2391,7 +2391,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Medium.74.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Medium.74.woff2) format('woff2');
     font-weight: 500;
     font-style: normal;
     font-display: swap;
@@ -2400,7 +2400,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Medium.75.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Medium.75.woff2) format('woff2');
     font-weight: 500;
     font-style: normal;
     font-display: swap;
@@ -2409,7 +2409,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Medium.76.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Medium.76.woff2) format('woff2');
     font-weight: 500;
     font-style: normal;
     font-display: swap;
@@ -2418,7 +2418,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Medium.77.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Medium.77.woff2) format('woff2');
     font-weight: 500;
     font-style: normal;
     font-display: swap;
@@ -2427,7 +2427,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Medium.78.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Medium.78.woff2) format('woff2');
     font-weight: 500;
     font-style: normal;
     font-display: swap;
@@ -2436,7 +2436,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Medium.79.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Medium.79.woff2) format('woff2');
     font-weight: 500;
     font-style: normal;
     font-display: swap;
@@ -2445,7 +2445,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Medium.80.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Medium.80.woff2) format('woff2');
     font-weight: 500;
     font-style: normal;
     font-display: swap;
@@ -2454,7 +2454,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Medium.81.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Medium.81.woff2) format('woff2');
     font-weight: 500;
     font-style: normal;
     font-display: swap;
@@ -2463,7 +2463,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Medium.82.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Medium.82.woff2) format('woff2');
     font-weight: 500;
     font-style: normal;
     font-display: swap;
@@ -2472,7 +2472,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Medium.83.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Medium.83.woff2) format('woff2');
     font-weight: 500;
     font-style: normal;
     font-display: swap;
@@ -2481,7 +2481,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Medium.84.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Medium.84.woff2) format('woff2');
     font-weight: 500;
     font-style: normal;
     font-display: swap;
@@ -2490,7 +2490,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Medium.85.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Medium.85.woff2) format('woff2');
     font-weight: 500;
     font-style: normal;
     font-display: swap;
@@ -2499,7 +2499,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Medium.86.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Medium.86.woff2) format('woff2');
     font-weight: 500;
     font-style: normal;
     font-display: swap;
@@ -2508,7 +2508,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Medium.87.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Medium.87.woff2) format('woff2');
     font-weight: 500;
     font-style: normal;
     font-display: swap;
@@ -2517,7 +2517,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Medium.88.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Medium.88.woff2) format('woff2');
     font-weight: 500;
     font-style: normal;
     font-display: swap;
@@ -2526,7 +2526,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Medium.89.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Medium.89.woff2) format('woff2');
     font-weight: 500;
     font-style: normal;
     font-display: swap;
@@ -2535,7 +2535,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Medium.90.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Medium.90.woff2) format('woff2');
     font-weight: 500;
     font-style: normal;
     font-display: swap;
@@ -2544,7 +2544,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Medium.91.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Medium.91.woff2) format('woff2');
     font-weight: 500;
     font-style: normal;
     font-display: swap;
@@ -2553,7 +2553,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Medium.92.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Medium.92.woff2) format('woff2');
     font-weight: 500;
     font-style: normal;
     font-display: swap;
@@ -2562,7 +2562,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Medium.93.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Medium.93.woff2) format('woff2');
     font-weight: 500;
     font-style: normal;
     font-display: swap;
@@ -2571,7 +2571,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Medium.94.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Medium.94.woff2) format('woff2');
     font-weight: 500;
     font-style: normal;
     font-display: swap;
@@ -2580,7 +2580,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Medium.95.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Medium.95.woff2) format('woff2');
     font-weight: 500;
     font-style: normal;
     font-display: swap;
@@ -2589,7 +2589,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Medium.96.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Medium.96.woff2) format('woff2');
     font-weight: 500;
     font-style: normal;
     font-display: swap;
@@ -2599,7 +2599,7 @@
 /** generated by https://github.com/voderl/font-slice */
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Bold.1.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Bold.1.woff2) format('woff2');
     font-weight: 700;
     font-style: normal;
     font-display: swap;
@@ -2608,7 +2608,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Bold.2.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Bold.2.woff2) format('woff2');
     font-weight: 700;
     font-style: normal;
     font-display: swap;
@@ -2617,7 +2617,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Bold.3.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Bold.3.woff2) format('woff2');
     font-weight: 700;
     font-style: normal;
     font-display: swap;
@@ -2626,7 +2626,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Bold.4.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Bold.4.woff2) format('woff2');
     font-weight: 700;
     font-style: normal;
     font-display: swap;
@@ -2635,7 +2635,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Bold.5.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Bold.5.woff2) format('woff2');
     font-weight: 700;
     font-style: normal;
     font-display: swap;
@@ -2644,7 +2644,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Bold.6.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Bold.6.woff2) format('woff2');
     font-weight: 700;
     font-style: normal;
     font-display: swap;
@@ -2653,7 +2653,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Bold.7.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Bold.7.woff2) format('woff2');
     font-weight: 700;
     font-style: normal;
     font-display: swap;
@@ -2662,7 +2662,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Bold.8.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Bold.8.woff2) format('woff2');
     font-weight: 700;
     font-style: normal;
     font-display: swap;
@@ -2671,7 +2671,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Bold.9.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Bold.9.woff2) format('woff2');
     font-weight: 700;
     font-style: normal;
     font-display: swap;
@@ -2680,7 +2680,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Bold.10.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Bold.10.woff2) format('woff2');
     font-weight: 700;
     font-style: normal;
     font-display: swap;
@@ -2689,7 +2689,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Bold.11.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Bold.11.woff2) format('woff2');
     font-weight: 700;
     font-style: normal;
     font-display: swap;
@@ -2698,7 +2698,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Bold.12.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Bold.12.woff2) format('woff2');
     font-weight: 700;
     font-style: normal;
     font-display: swap;
@@ -2707,7 +2707,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Bold.13.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Bold.13.woff2) format('woff2');
     font-weight: 700;
     font-style: normal;
     font-display: swap;
@@ -2716,7 +2716,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Bold.14.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Bold.14.woff2) format('woff2');
     font-weight: 700;
     font-style: normal;
     font-display: swap;
@@ -2725,7 +2725,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Bold.15.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Bold.15.woff2) format('woff2');
     font-weight: 700;
     font-style: normal;
     font-display: swap;
@@ -2734,7 +2734,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Bold.16.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Bold.16.woff2) format('woff2');
     font-weight: 700;
     font-style: normal;
     font-display: swap;
@@ -2743,7 +2743,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Bold.17.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Bold.17.woff2) format('woff2');
     font-weight: 700;
     font-style: normal;
     font-display: swap;
@@ -2752,7 +2752,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Bold.18.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Bold.18.woff2) format('woff2');
     font-weight: 700;
     font-style: normal;
     font-display: swap;
@@ -2761,7 +2761,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Bold.19.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Bold.19.woff2) format('woff2');
     font-weight: 700;
     font-style: normal;
     font-display: swap;
@@ -2770,7 +2770,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Bold.20.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Bold.20.woff2) format('woff2');
     font-weight: 700;
     font-style: normal;
     font-display: swap;
@@ -2779,7 +2779,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Bold.21.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Bold.21.woff2) format('woff2');
     font-weight: 700;
     font-style: normal;
     font-display: swap;
@@ -2788,7 +2788,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Bold.22.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Bold.22.woff2) format('woff2');
     font-weight: 700;
     font-style: normal;
     font-display: swap;
@@ -2797,7 +2797,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Bold.23.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Bold.23.woff2) format('woff2');
     font-weight: 700;
     font-style: normal;
     font-display: swap;
@@ -2806,7 +2806,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Bold.24.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Bold.24.woff2) format('woff2');
     font-weight: 700;
     font-style: normal;
     font-display: swap;
@@ -2815,7 +2815,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Bold.25.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Bold.25.woff2) format('woff2');
     font-weight: 700;
     font-style: normal;
     font-display: swap;
@@ -2824,7 +2824,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Bold.26.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Bold.26.woff2) format('woff2');
     font-weight: 700;
     font-style: normal;
     font-display: swap;
@@ -2833,7 +2833,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Bold.27.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Bold.27.woff2) format('woff2');
     font-weight: 700;
     font-style: normal;
     font-display: swap;
@@ -2842,7 +2842,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Bold.28.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Bold.28.woff2) format('woff2');
     font-weight: 700;
     font-style: normal;
     font-display: swap;
@@ -2851,7 +2851,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Bold.29.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Bold.29.woff2) format('woff2');
     font-weight: 700;
     font-style: normal;
     font-display: swap;
@@ -2860,7 +2860,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Bold.30.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Bold.30.woff2) format('woff2');
     font-weight: 700;
     font-style: normal;
     font-display: swap;
@@ -2869,7 +2869,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Bold.31.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Bold.31.woff2) format('woff2');
     font-weight: 700;
     font-style: normal;
     font-display: swap;
@@ -2878,7 +2878,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Bold.32.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Bold.32.woff2) format('woff2');
     font-weight: 700;
     font-style: normal;
     font-display: swap;
@@ -2887,7 +2887,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Bold.33.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Bold.33.woff2) format('woff2');
     font-weight: 700;
     font-style: normal;
     font-display: swap;
@@ -2896,7 +2896,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Bold.34.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Bold.34.woff2) format('woff2');
     font-weight: 700;
     font-style: normal;
     font-display: swap;
@@ -2905,7 +2905,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Bold.35.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Bold.35.woff2) format('woff2');
     font-weight: 700;
     font-style: normal;
     font-display: swap;
@@ -2914,7 +2914,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Bold.36.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Bold.36.woff2) format('woff2');
     font-weight: 700;
     font-style: normal;
     font-display: swap;
@@ -2923,7 +2923,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Bold.37.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Bold.37.woff2) format('woff2');
     font-weight: 700;
     font-style: normal;
     font-display: swap;
@@ -2932,7 +2932,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Bold.38.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Bold.38.woff2) format('woff2');
     font-weight: 700;
     font-style: normal;
     font-display: swap;
@@ -2941,7 +2941,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Bold.39.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Bold.39.woff2) format('woff2');
     font-weight: 700;
     font-style: normal;
     font-display: swap;
@@ -2950,7 +2950,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Bold.40.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Bold.40.woff2) format('woff2');
     font-weight: 700;
     font-style: normal;
     font-display: swap;
@@ -2959,7 +2959,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Bold.41.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Bold.41.woff2) format('woff2');
     font-weight: 700;
     font-style: normal;
     font-display: swap;
@@ -2968,7 +2968,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Bold.42.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Bold.42.woff2) format('woff2');
     font-weight: 700;
     font-style: normal;
     font-display: swap;
@@ -2977,7 +2977,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Bold.43.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Bold.43.woff2) format('woff2');
     font-weight: 700;
     font-style: normal;
     font-display: swap;
@@ -2986,7 +2986,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Bold.44.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Bold.44.woff2) format('woff2');
     font-weight: 700;
     font-style: normal;
     font-display: swap;
@@ -2995,7 +2995,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Bold.45.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Bold.45.woff2) format('woff2');
     font-weight: 700;
     font-style: normal;
     font-display: swap;
@@ -3004,7 +3004,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Bold.46.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Bold.46.woff2) format('woff2');
     font-weight: 700;
     font-style: normal;
     font-display: swap;
@@ -3013,7 +3013,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Bold.47.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Bold.47.woff2) format('woff2');
     font-weight: 700;
     font-style: normal;
     font-display: swap;
@@ -3022,7 +3022,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Bold.48.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Bold.48.woff2) format('woff2');
     font-weight: 700;
     font-style: normal;
     font-display: swap;
@@ -3031,7 +3031,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Bold.49.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Bold.49.woff2) format('woff2');
     font-weight: 700;
     font-style: normal;
     font-display: swap;
@@ -3040,7 +3040,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Bold.50.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Bold.50.woff2) format('woff2');
     font-weight: 700;
     font-style: normal;
     font-display: swap;
@@ -3049,7 +3049,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Bold.51.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Bold.51.woff2) format('woff2');
     font-weight: 700;
     font-style: normal;
     font-display: swap;
@@ -3058,7 +3058,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Bold.52.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Bold.52.woff2) format('woff2');
     font-weight: 700;
     font-style: normal;
     font-display: swap;
@@ -3067,7 +3067,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Bold.53.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Bold.53.woff2) format('woff2');
     font-weight: 700;
     font-style: normal;
     font-display: swap;
@@ -3076,7 +3076,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Bold.54.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Bold.54.woff2) format('woff2');
     font-weight: 700;
     font-style: normal;
     font-display: swap;
@@ -3085,7 +3085,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Bold.55.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Bold.55.woff2) format('woff2');
     font-weight: 700;
     font-style: normal;
     font-display: swap;
@@ -3094,7 +3094,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Bold.56.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Bold.56.woff2) format('woff2');
     font-weight: 700;
     font-style: normal;
     font-display: swap;
@@ -3103,7 +3103,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Bold.57.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Bold.57.woff2) format('woff2');
     font-weight: 700;
     font-style: normal;
     font-display: swap;
@@ -3112,7 +3112,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Bold.58.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Bold.58.woff2) format('woff2');
     font-weight: 700;
     font-style: normal;
     font-display: swap;
@@ -3121,7 +3121,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Bold.59.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Bold.59.woff2) format('woff2');
     font-weight: 700;
     font-style: normal;
     font-display: swap;
@@ -3130,7 +3130,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Bold.60.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Bold.60.woff2) format('woff2');
     font-weight: 700;
     font-style: normal;
     font-display: swap;
@@ -3139,7 +3139,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Bold.61.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Bold.61.woff2) format('woff2');
     font-weight: 700;
     font-style: normal;
     font-display: swap;
@@ -3148,7 +3148,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Bold.62.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Bold.62.woff2) format('woff2');
     font-weight: 700;
     font-style: normal;
     font-display: swap;
@@ -3157,7 +3157,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Bold.63.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Bold.63.woff2) format('woff2');
     font-weight: 700;
     font-style: normal;
     font-display: swap;
@@ -3166,7 +3166,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Bold.64.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Bold.64.woff2) format('woff2');
     font-weight: 700;
     font-style: normal;
     font-display: swap;
@@ -3175,7 +3175,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Bold.65.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Bold.65.woff2) format('woff2');
     font-weight: 700;
     font-style: normal;
     font-display: swap;
@@ -3184,7 +3184,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Bold.66.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Bold.66.woff2) format('woff2');
     font-weight: 700;
     font-style: normal;
     font-display: swap;
@@ -3193,7 +3193,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Bold.67.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Bold.67.woff2) format('woff2');
     font-weight: 700;
     font-style: normal;
     font-display: swap;
@@ -3202,7 +3202,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Bold.68.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Bold.68.woff2) format('woff2');
     font-weight: 700;
     font-style: normal;
     font-display: swap;
@@ -3211,7 +3211,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Bold.69.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Bold.69.woff2) format('woff2');
     font-weight: 700;
     font-style: normal;
     font-display: swap;
@@ -3220,7 +3220,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Bold.70.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Bold.70.woff2) format('woff2');
     font-weight: 700;
     font-style: normal;
     font-display: swap;
@@ -3229,7 +3229,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Bold.71.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Bold.71.woff2) format('woff2');
     font-weight: 700;
     font-style: normal;
     font-display: swap;
@@ -3238,7 +3238,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Bold.72.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Bold.72.woff2) format('woff2');
     font-weight: 700;
     font-style: normal;
     font-display: swap;
@@ -3247,7 +3247,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Bold.73.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Bold.73.woff2) format('woff2');
     font-weight: 700;
     font-style: normal;
     font-display: swap;
@@ -3256,7 +3256,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Bold.74.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Bold.74.woff2) format('woff2');
     font-weight: 700;
     font-style: normal;
     font-display: swap;
@@ -3265,7 +3265,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Bold.75.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Bold.75.woff2) format('woff2');
     font-weight: 700;
     font-style: normal;
     font-display: swap;
@@ -3274,7 +3274,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Bold.76.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Bold.76.woff2) format('woff2');
     font-weight: 700;
     font-style: normal;
     font-display: swap;
@@ -3283,7 +3283,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Bold.77.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Bold.77.woff2) format('woff2');
     font-weight: 700;
     font-style: normal;
     font-display: swap;
@@ -3292,7 +3292,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Bold.78.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Bold.78.woff2) format('woff2');
     font-weight: 700;
     font-style: normal;
     font-display: swap;
@@ -3301,7 +3301,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Bold.79.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Bold.79.woff2) format('woff2');
     font-weight: 700;
     font-style: normal;
     font-display: swap;
@@ -3310,7 +3310,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Bold.80.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Bold.80.woff2) format('woff2');
     font-weight: 700;
     font-style: normal;
     font-display: swap;
@@ -3319,7 +3319,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Bold.81.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Bold.81.woff2) format('woff2');
     font-weight: 700;
     font-style: normal;
     font-display: swap;
@@ -3328,7 +3328,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Bold.82.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Bold.82.woff2) format('woff2');
     font-weight: 700;
     font-style: normal;
     font-display: swap;
@@ -3337,7 +3337,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Bold.83.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Bold.83.woff2) format('woff2');
     font-weight: 700;
     font-style: normal;
     font-display: swap;
@@ -3346,7 +3346,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Bold.84.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Bold.84.woff2) format('woff2');
     font-weight: 700;
     font-style: normal;
     font-display: swap;
@@ -3355,7 +3355,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Bold.85.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Bold.85.woff2) format('woff2');
     font-weight: 700;
     font-style: normal;
     font-display: swap;
@@ -3364,7 +3364,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Bold.86.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Bold.86.woff2) format('woff2');
     font-weight: 700;
     font-style: normal;
     font-display: swap;
@@ -3373,7 +3373,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Bold.87.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Bold.87.woff2) format('woff2');
     font-weight: 700;
     font-style: normal;
     font-display: swap;
@@ -3382,7 +3382,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Bold.88.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Bold.88.woff2) format('woff2');
     font-weight: 700;
     font-style: normal;
     font-display: swap;
@@ -3391,7 +3391,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Bold.89.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Bold.89.woff2) format('woff2');
     font-weight: 700;
     font-style: normal;
     font-display: swap;
@@ -3400,7 +3400,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Bold.90.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Bold.90.woff2) format('woff2');
     font-weight: 700;
     font-style: normal;
     font-display: swap;
@@ -3409,7 +3409,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Bold.91.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Bold.91.woff2) format('woff2');
     font-weight: 700;
     font-style: normal;
     font-display: swap;
@@ -3418,7 +3418,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Bold.92.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Bold.92.woff2) format('woff2');
     font-weight: 700;
     font-style: normal;
     font-display: swap;
@@ -3427,7 +3427,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Bold.93.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Bold.93.woff2) format('woff2');
     font-weight: 700;
     font-style: normal;
     font-display: swap;
@@ -3436,7 +3436,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Bold.94.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Bold.94.woff2) format('woff2');
     font-weight: 700;
     font-style: normal;
     font-display: swap;
@@ -3445,7 +3445,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Bold.95.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Bold.95.woff2) format('woff2');
     font-weight: 700;
     font-style: normal;
     font-display: swap;
@@ -3454,7 +3454,7 @@
 
 @font-face {
     font-family: 'HarmonyOS Sans SC';
-    src: url(https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/libs/global/font/HarmonyOS_Sans_SC_Bold.96.woff2) format('woff2');
+    src: url(./font/HarmonyOS_Sans_SC_Bold.96.woff2) format('woff2');
     font-weight: 700;
     font-style: normal;
     font-display: swap;
